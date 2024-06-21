@@ -1,0 +1,14 @@
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\bin\Debug\net8.0\Day2Code.exe
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\bin\Debug\net8.0\Day2Code.deps.json
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\bin\Debug\net8.0\Day2Code.runtimeconfig.json
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\bin\Debug\net8.0\Day2Code.dll
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\bin\Debug\net8.0\Day2Code.pdb
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.AssemblyInfoInputs.cache
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.AssemblyInfo.cs
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.csproj.CoreCompileInputs.cache
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.dll
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\refint\Day2Code.dll
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.pdb
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\Day2Code.genruntimeconfig.cache
+C:\Desktop\BootCamp_2024\mvc_bootcamp\Day2Code\Day2Code\obj\Debug\net8.0\ref\Day2Code.dll
